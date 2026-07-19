@@ -1,0 +1,6 @@
+{
+  "name": "Voiceover Generator",
+  "description": "An AI-powered voiceover generator for Instagram Reels and YouTube Shorts supporting Hinglish, custom performance tones, and multiple style-optimized voices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
